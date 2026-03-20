@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/foolfire/ai-photo-dedup/pulls)
 
 ## ✨ 功能特性
 
@@ -88,3 +89,7 @@ ai-photo-dedup/
 ## 📄 License
 
 MIT © 2026 foolfire
+
+---
+
+<p align="center">Made with 🤖 by AI Agent</p>
